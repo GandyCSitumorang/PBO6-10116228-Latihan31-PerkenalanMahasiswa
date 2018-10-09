@@ -22,18 +22,18 @@ public class PBO610116228Latihan31PerkenalanMahasiswa {
     public static void main(String[] args) {
         // TODO code application logic here
         mahasiswa mahasiswa1 = new mahasiswa();
-        mahasiswa1.nim = "";
-        mahasiswa1.nama=""+"\n";
+        mahasiswa1.nim = "10116227";
+        mahasiswa1.nama="Anjasmara"+"\n";
         mahasiswa1.PerkenalanDiri(mahasiswa1.nim, mahasiswa1.nama);
         
         mahasiswa mahasiswa2 = new mahasiswa();
-        mahasiswa2.nim = "";
-        mahasiswa2.nama=""+"\n";
+        mahasiswa2.nim = "10116229";
+        mahasiswa2.nama="Adam"+"\n";
         mahasiswa2.PerkenalanDiri(mahasiswa2.nim, mahasiswa2.nama);
         
         mahasiswa mahasiswa3 = new mahasiswa();
-        mahasiswa3.nim = "";
-        mahasiswa3.nama=""+"\n";
+        mahasiswa3.nim = "1011630";
+        mahasiswa3.nama="Francesco Novieri"+"\n";
         mahasiswa3.PerkenalanDiri(mahasiswa3.nim, mahasiswa2.nama);
         
         mahasiswa mahasiswa4 = new mahasiswa();
